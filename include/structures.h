@@ -69,7 +69,7 @@ struct Ext2Superblock
     uint32_t journal_inode;           // 224
     uint32_t journal_device;          // 228
     uint32_t last_orphan;             // 232
-    uint32_t hash_seed[4];             // 236
+    uint32_t hash_seed[4];            // 236
     uint8_t  default_hash_version;    // 252
     uint8_t  reserved_char_pad;       // 253
     uint16_t reserved_word_pad;       // 254
