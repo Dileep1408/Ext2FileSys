@@ -1,0 +1,12 @@
+# Compiled files
+*.exe
+*.o
+
+# Temporary files
+*.tmp
+
+# VS Code settings
+.vscode/
+
+# EXT2 disk images
+Artifacts/*.img
